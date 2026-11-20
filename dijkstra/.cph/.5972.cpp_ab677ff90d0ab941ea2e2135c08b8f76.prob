@@ -1,1 +1,0 @@
-{"name":"Local: 5972","url":"c:\\Users\\dohyu\\Desktop\\공부\\bakjoon\\dijkstra\\5972.cpp","tests":[{"id":1761884804164,"input":"4 6\n1 2 3\n2 3 3\n3 4 1\n1 3 5\n2 4 5\n1 4 4\n2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dohyu\\Desktop\\공부\\bakjoon\\dijkstra\\5972.cpp","group":"local","local":true}

@@ -1,1 +1,0 @@
-{"name":"Local: 32177","url":"c:\\Users\\dohyu\\OneDrive\\바탕 화면\\bakjoon\\union_find\\32177.cpp","tests":[{"id":1748321776318,"input":"5 4 3\n5 2 4\n2 2 1 0\n2 5 4 1\n2 8 7 1\n4 9 11 1\n7 6 4 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dohyu\\OneDrive\\바탕 화면\\bakjoon\\union_find\\32177.cpp","group":"local","local":true}

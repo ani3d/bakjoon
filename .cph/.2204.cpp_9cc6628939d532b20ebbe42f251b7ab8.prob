@@ -1,1 +1,0 @@
-{"name":"Local: 2204","url":"c:\\Users\\dohyu\\OneDrive\\바탕 화면\\bakjoon\\2204.cpp","tests":[{"id":1738635449068,"input":"3\nCat\nfat\nbAt\n4\ncall\nball\nAll\nHall\n0","output":"bAt\nAll"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dohyu\\OneDrive\\바탕 화면\\bakjoon\\2204.cpp","group":"local","local":true}
