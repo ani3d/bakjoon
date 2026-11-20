@@ -1,0 +1,1 @@
+{"name":"Local: 1368","url":"c:\\Users\\dohyu\\Desktop\\공부\\bakjoon\\mst\\1368.cpp","tests":[{"id":1763041535555,"input":"4\n5\n4\n4\n3\n0 2 2 2\n2 0 3 3\n2 3 0 4\n2 3 4 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dohyu\\Desktop\\공부\\bakjoon\\mst\\1368.cpp","group":"local","local":true}

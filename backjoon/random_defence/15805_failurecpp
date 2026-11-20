@@ -1,0 +1,50 @@
+#include <iostream>
+#include <string.h>
+#include<string>
+#include<algorithm>
+#include<queue>
+#include<stack>
+#include<cmath>
+#include<sstream>
+#include<map>
+using namespace std;
+
+int parent[200001];
+deque<int> city;
+
+int main(){
+    ios::sync_with_stdio(0);// 
+    cin.tie(0);
+    int k,num;
+    int n; cin>>n;
+    int temp;
+    int max=-1;
+    fill_n(parent,200000,-1);
+    for(int i=0;i<n;i++){
+        cin>>num;
+        if(num>max) max=num;
+        if(!city.empty()){
+            temp=city.back();
+        }
+        city.push_back(num);
+        if(city.back()>temp){
+            parent[city.back()]=temp;
+        }
+        else if(city.back()<temp){
+            while(city.size()!=1){
+                city.pop_front();
+            }
+        }
+    }
+    cout<<max+1<<'\n';
+    for(int i=0;i<=max;i++){
+        cout<<parent[i]<<' ';
+    }
+    
+
+
+
+    return 0;
+}
+
+//덱으로 가도 결국 방문배열 확인해ㅑㅇ함함
